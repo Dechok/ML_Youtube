@@ -20,8 +20,9 @@ Installation
 2. Place the pre-trained model('youtube_model7.pkl) in the root directory of the project.
 
 Usage
-1. Run the Flask application
-2. Open your web browser and go to 'http://127.0.0.1:5000/' to view the application.
+1. "Please click on the following link to access our deployed application: https://ml-youtube.onrender.com/
+2. Once the page loads, feel free to write the comment that you want in the designated input field. After entering your comment, you can submit it by clicking the  button. The result of the sentiment analysis will be shown on the screen shortly after submitting your comment. Thank you for using our application!
+
 
 Application Structure
 1. app.py: The main Flask application file.
